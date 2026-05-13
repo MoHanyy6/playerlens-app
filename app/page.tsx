@@ -36,13 +36,12 @@ export default function Home() {
       </header>
 
       {/* Hero Section */}
-      <section className="text-center px-6 py-24 md:py-28">
+      <section className="text-center px-6 py-24 md:py-28" >
         <h2 className="text-5xl font-semibold tracking-tight leading-tight mb-6 md:text-6xl">
-          Capture Your Best Moments
+          Your Personal Individual Tactical Analyst
         </h2>
         <p className="text-slate-400 max-w-2xl mx-auto mb-8 leading-8">
-          PlayerLens helps athletes and creators showcase their performance through
-          high-quality visuals and professional media content.
+          PlayerLens helps Football Players to Analyze their Performance and Improve their Skills through Video Analysis , Tactical Insights and online video sessions. 
         </p>
         <a
           href="#contact"
@@ -53,7 +52,7 @@ export default function Home() {
       </section>
 
       {/* Services */}
-      <section id="services" className="px-8 py-20 bg-gray-950">
+      <section id="services" className="scroll-mt-24 px-8 py-20 bg-gray-950">
         <h3 className="text-3xl font-bold text-center mb-12">Services</h3>
         <div className="grid md:grid-cols-3 gap-8">
           <div className="bg-black border border-gray-800 p-6 rounded-xl">
@@ -82,7 +81,7 @@ export default function Home() {
       </section>
 
       {/* Contact */}
-      <section id="contact" className="px-8 py-20 bg-gray-950">
+      <section id="contact" className="scroll-mt-24 px-8 py-20 bg-gray-950">
         <h3 className="text-3xl font-bold text-center mb-10">Contact</h3>
 
         <form className="max-w-xl mx-auto space-y-4">

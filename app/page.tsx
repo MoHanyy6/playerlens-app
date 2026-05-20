@@ -56,16 +56,16 @@ export default function Home() {
         <h3 className="text-3xl font-bold text-center mb-12">Services</h3>
         <div className="grid md:grid-cols-3 gap-8">
           <div className="bg-black border border-gray-800 p-6 rounded-xl">
-            <h4 className="text-xl font-semibold mb-2">Photography</h4>
-            <p className="text-gray-400">High-quality sports and personal photography.</p>
+            <h4 className="text-xl font-semibold mb-2">Video Tactical Analysis</h4>
+            <p className="text-gray-400">In-depth video analysis for performance improvement.</p>
           </div>
           <div className="bg-black border border-gray-800 p-6 rounded-xl">
-            <h4 className="text-xl font-semibold mb-2">Video Editing</h4>
-            <p className="text-gray-400">Professional highlight reels and edits.</p>
+            <h4 className="text-xl font-semibold mb-2">Statistical Analysis</h4>
+            <p className="text-gray-400">Data-driven insights for performance optimization dashboard.</p>
           </div>
           <div className="bg-black border border-gray-800 p-6 rounded-xl">
-            <h4 className="text-xl font-semibold mb-2">Content Strategy</h4>
-            <p className="text-gray-400">Build your personal brand online.</p>
+            <h4 className="text-xl font-semibold mb-2">Online video Session</h4>
+            <p className="text-gray-400">Interactive video sessions to discuss analysis.</p>
           </div>
         </div>
       </section>
